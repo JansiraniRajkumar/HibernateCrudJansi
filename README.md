@@ -1,0 +1,2 @@
+# HibernateCrudJansi
+Hibernate exercise
